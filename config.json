@@ -1,9 +1,11 @@
 {
   "last_connect_feedback": [],
   "last_connect_sensors": [],
-  "local_time": "2024-01-01-11-18-26",
-  "save_mode": "csv",
-  "trial_name": "template_run_1",
-  "audio_prompts_enabled" : true,
-  "feedback_enabled": true
+  "left_feedback_enabled": true,
+  "local_time": "2025-09-01-01-01-01",
+  "pulse_length": 0.5,
+  "right_feedback_enabled": true,
+  "save_mode": "xlsx",
+  "trial_name": "trial_0",
+  "whenFeedback": "Early stance"
 }
